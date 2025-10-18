@@ -6,6 +6,10 @@ This project combines deep learning-based object detection with motion analysis 
 
 ---
 
+<br>
+<br>
+
+
 ## [View live](https://anomaly-detection-from-cctv.streamlit.app/)
 
 ## Demo
@@ -39,8 +43,8 @@ This project combines deep learning-based object detection with motion analysis 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/anomaly-detection.git
-   cd anomaly-detection
+   git clone https://github.com/shinieaggarwal72/anomaly-detection.git
+   cd anomaly-detection/anomaly_detection_system
    ```
    
 2. **Create a virtual environment**
@@ -56,7 +60,7 @@ This project combines deep learning-based object detection with motion analysis 
 
 4. **Run streamlit app**
    ```bash
-   streamlit run app.py
+   streamlit run appYOLO.py
    ```
 
 5. **Detection**

@@ -14,6 +14,18 @@ This project combines deep learning-based object detection with motion analysis 
 
 ## Demo
 
+![demo](./anomaly_detection_system/demo/anomaly_gif.gif)
+
+<br>
+
+![demo](./anomaly_detection_system/demo/im1.png)
+
+<br>
+
+![demo](./anomaly_detection_system/demo/im2.png)
+
+<br>
+<br>
 
 
 
@@ -25,7 +37,7 @@ This project combines deep learning-based object detection with motion analysis 
 - 💾 Export and view processed output videos directly in Streamlit  
 - 🌐 One-click deployment on [Streamlit Cloud](https://streamlit.io/cloud)
 
----
+<br>
 
 ## Tech Stack
 
@@ -37,7 +49,7 @@ This project combines deep learning-based object detection with motion analysis 
 | Backend | Python 3.10+ |
 | Deployment | Streamlit Cloud |
 
----
+<br>
 
 ## ⚙️ Installation & Setup (Local)
 

@@ -5,10 +5,12 @@ A **real-time surveillance system** built using **YOLOv8**, **OpenCV**, and **St
 This project combines deep learning-based object detection with motion analysis to flag suspicious human activity from uploaded or live video streams.
 
 <br>
+
+
+
+### [View live](https://anomaly-detection-from-cctv.streamlit.app/)
+
 <br>
-
-
-## [View live](https://anomaly-detection-from-cctv.streamlit.app/)
 
 ## Demo
 

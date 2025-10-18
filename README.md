@@ -12,15 +12,15 @@ This project combines deep learning-based object detection with motion analysis 
 
 ## Demo
 
-![demo](./anomaly_detection_system/demo/anomaly_gif.gif)
+![demo](./demo/anomaly_gif.gif)
 
 <br>
 
-![demo](./anomaly_detection_system/demo/im1.png)
+![demo](./demo/im1.png)
 
 <br>
 
-![demo](./anomaly_detection_system/demo/im2.png)
+![demo](./demo/im2.png)
 
 <br>
 <br>
